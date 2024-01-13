@@ -1,16 +1,20 @@
 # Irene Vázquez ✨
 
-<!--
-**iireneVS/iirenevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "Linkedin")](https://www.linkedin.com/in/irene-vazquez-sanchez-727a662a2/ "Linkedin")
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white "Instagram")](https://www.instagram.com/iirene_vs/ "Instagram")
+[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white "Threads")](https://www.threads.net/@iirene_vs "Threads")
+[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white "Twitter")](https://twitter.com/iirenevs_dev "Twitter")
 
-Here are some ideas to get you started:
+:woman_technologist: Estudiante de Full Stack Developer, apasionada por el desarrollo web y el diseño. :unicorn: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Con habilidades en HTML, CSS, JavaScript, React, Python y SQL, con ganas de aprender y crecer en el fascinante mundo de la programación.
+
+Fuera del código, disfruto pasar tiempo al aire libre con mi familia y mis perros. :sunrise_over_mountains: :dog2:
+
+### Repositorios
+
+Voy compartiendo mi aprendizaje a través de los repositorios que véis a continuación:
+
+### GitHub Stats :dizzy:
+
+![Irene's GitHub stats](https://github-readme-stats.vercel.app/api?username=iirenevs&show_icons=true&theme=cobalt)
