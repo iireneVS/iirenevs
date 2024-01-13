@@ -11,10 +11,12 @@ Con habilidades en HTML, CSS, JavaScript, React, Python y SQL, con ganas de apre
 
 Fuera del código, disfruto pasar tiempo al aire libre con mi familia y mis perros. :sunrise_over_mountains: :dog2:
 
-### Repositorios
+<!-- ### Repositorios
 
-Voy compartiendo mi aprendizaje a través de los repositorios que véis a continuación:
+Voy compartiendo mi aprendizaje a través de los repositorios que véis a continuación:-->
 
 ### GitHub Stats :dizzy:
 
-![Irene's GitHub stats](https://github-readme-stats.vercel.app/api?username=iirenevs&show_icons=true&theme=cobalt)
+![Irene's GitHub stats](https://github-readme-stats.vercel.app/api?username=iirenevs&show_icons=true&show=prs_merged&theme=cobalt)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iirenevs&theme=cobalt)](https://github.com/iirenevs/github-readme-stats)
