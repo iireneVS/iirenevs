@@ -19,4 +19,4 @@ Voy compartiendo mi aprendizaje a través de los repositorios que véis a contin
 
 ![Irene's GitHub stats](https://github-readme-stats.vercel.app/api?username=iirenevs&show_icons=true&show=prs_merged&theme=cobalt)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iirenevs&theme=cobalt)](https://github.com/iirenevs/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iirenevs&theme=cobalt)]
