@@ -4,14 +4,14 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white "Instagram")](https://www.instagram.com/iirene_vs/ "Instagram")
 [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white "Threads")](https://www.threads.net/@iirene_vs "Threads")
 [![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white "Twitter")](https://twitter.com/iirenevs_dev "Twitter")
-[![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white "Wordpress")](https://iirenevs.com/ "Wordpress")
+[![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white "iirenevs.com")](https://iirenevs.com/ "iirenevs.com")
 
 
 :woman_technologist: Estudiante de Full Stack Developer, apasionada por el desarrollo web y el diseño. :unicorn: 
 
 Con habilidades en HTML, CSS, JavaScript, React, Python y SQL, con ganas de aprender y crecer en el fascinante mundo de la programación.
 
-Fuera del código, disfruto pasar tiempo al aire libre con mi familia y mis perros. :sunrise_over_mountains: :dog2:
+Fuera del código, disfruto pasar tiempo al aire libre con mi familia y mis compañeros peludos. :sunrise_over_mountains: :dog2:
 
 <!-- ### Repositorios
 
