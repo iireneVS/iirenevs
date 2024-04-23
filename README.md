@@ -8,7 +8,7 @@
 
 
 
-:woman_technologist: Estudiante de Full Stack Developer, apasionada por el desarrollo web y el diseño. :unicorn: 
+:woman_technologist: Full Stack Developer, apasionada por el desarrollo web y el diseño. :unicorn: 
 
 Con habilidades en HTML, CSS, JavaScript, React, Python y SQL, con ganas de aprender y crecer en el fascinante mundo de la programación.
 
